@@ -174,7 +174,7 @@
   />
   <img
     height="165"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MostafaL2003&theme=tokyonight&layout=compact&hide_border=true&custom_title=Most%20Used%20Languages"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MostafaL2003&theme=tokyonight&layout=compact&hide_border=true&hide=dart,c%2B%2B,cmake,c,swift,kotlin,objective-c,ruby&exclude_repo=paydash,DeskFlow,noteforge,chat_up,Food-Scanner-For-Allergies,food_delivery_app,study_tracker_app,weather_app"
     alt="Mostafa Mamdouh's Top Languages"
   />
 </div>
