@@ -141,16 +141,23 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>💼 Experience &amp; Engineering Focus</h3>
+      <h3>
+        🌍 <a href="https://github.com/MostafaL2003/WorldWise">WorldWise – Geolocation &amp; Travel SPA</a>
+      </h3>
       <p>
-        <strong>Frontend Developer (Contract / Freelance)</strong><br />
-        <em>May 2025 – Nov 2025 · Cairo, Egypt</em>
+        <a href="https://github.com/MostafaL2003/WorldWise" target="_blank"><strong>Source Code</strong></a>
+      </p>
+      <p>
+        Interactive mapping and travel-logging application built with dynamic coordinate routing, geolocation, and decoupled state management.
       </p>
       <ul>
-        <li><strong>Admin &amp; Operational Panels:</strong> Delivered authenticated administrative consoles featuring multi-column data filtering, server-side pagination, and protected routes.</li>
-        <li><strong>State Boundary Discipline:</strong> Engineered predictable data flows using <strong>Redux Toolkit</strong> and <strong>TanStack Query</strong> to cleanly decouple server snapshots from local UI state.</li>
-        <li><strong>Full-Lifecycle Delivery:</strong> Integrated <strong>Supabase</strong> authentication, session lifecycles, and relational queries with continuous production deployments on <strong>Vercel</strong>.</li>
+        <li><strong>URL-Driven State Synchronization:</strong> Leverages <strong>React Router</strong> query strings and dynamic parameters to synchronize UI panels with active map coordinates.</li>
+        <li><strong>Interactive Map Engine:</strong> Integrates <strong>Leaflet &amp; React Leaflet</strong> for geolocation discovery, viewport transitions, and custom pin placements.</li>
+        <li><strong>Predictable State Reducers:</strong> Combines <strong>Context API</strong> with <code>useReducer</code> and route-level code splitting for clean state transitions.</li>
       </ul>
+      <p>
+        <code>React</code> · <code>React Router</code> · <code>Context API</code> · <code>Leaflet</code> · <code>Vite</code>
+      </p>
     </td>
   </tr>
 </table>
@@ -162,12 +169,12 @@
 <div align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=MostafaL2003&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=MostafaL2003&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"
     alt="Mostafa Mamdouh's GitHub Stats"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaL2003&theme=tokyonight&layout=compact&hide_border=true"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MostafaL2003&theme=tokyonight&layout=compact&hide_border=true&custom_title=Most%20Used%20Languages"
     alt="Mostafa Mamdouh's Top Languages"
   />
 </div>
