@@ -126,6 +126,7 @@
         📦 <a href="https://github.com/MostafaL2003/acme-inventory-portal">Enterprise Product &amp; Inventory Portal</a>
       </h3>
       <p>
+        <a href="https://acme-inventory-portal.vercel.app/products" target="_blank"><strong>🔗 Live Production Demo</strong></a> ·
         <a href="https://github.com/MostafaL2003/acme-inventory-portal" target="_blank"><strong>Source Code</strong></a>
       </p>
       <p>
